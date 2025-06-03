@@ -1,0 +1,162 @@
+{
+    "group_id": "1234567890",
+    "group_name": "test_group",
+    "_comment_group_name": "group name is optional",
+    "group_type": "chat",
+    "scripts": [
+        {
+            "talker_name": "Rachel",
+            "talker_id": 1,
+            "time": "4:08 PM",
+            "content": "yooo I’m gonna be in SF next weekend!! pls someone take me to dumpling home 😭",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Josh",
+            "talker_id": 2,
+            "time": "4:12 PM",
+            "content": "Saturday or Sunday? Picnic weather maybe?? Central Park?? 🍓",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Lisa",
+            "talker_id": 3,
+            "time": "4:14 PM",
+            "content": "I miss you guys 🥺 Also found this chaos: [img: 'us in 2017 dressed like TikTok teens'] Josh your haircut 😭😭😭",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Josh",
+            "talker_id": 2,
+            "time": "4:15 PM",
+            "content": "rude. that haircut was visionary",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Rachel",
+            "talker_id": 1,
+            "time": "4:17 PM",
+            "content": "Sunday works best, I’m landing Sat late. I also wanna eat my bodyweight in xiao long bao",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Lisa",
+            "talker_id": 3,
+            "time": "4:19 PM",
+            "content": "yo that reminds me!! anyone remember that waiter who flirted w Josh 😭",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Josh",
+            "talker_id": 2,
+            "time": "4:21 PM",
+            "content": "pls no 😩 but yes. I tipped 30% out of confusion.",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Rachel",
+            "talker_id": 1,
+            "time": "4:24 PM",
+            "content": "LMAO btw I can probably stay until Mon noon if y’all wanna hang longer?",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Lisa",
+            "talker_id": 3,
+            "time": "4:26 PM",
+            "content": "I’m free Sunday & Monday 🎉 let’s do a lazy brunch too?",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Josh",
+            "talker_id": 2,
+            "time": "4:28 PM",
+            "content": "ok but real talk: are we doing dumplings or Korean BBQ 👀",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Lisa",
+            "talker_id": 3,
+            "time": "4:30 PM",
+            "content": "I vote dumplings no meat sweats plz I’m still traumatized from that Flushing BBQ night 💀",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Rachel",
+            "talker_id": 1,
+            "time": "4:35 PM",
+            "content": "thank u 🙏 finally someone gets it",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Josh",
+            "talker_id": 2,
+            "time": "4:36 PM",
+            "content": "ok but which dumpling spot tho Din Tai Fung is the obvious but safe choice...",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Lisa",
+            "talker_id": 3,
+            "time": "4:38 PM",
+            "content": "they opened that new spot on Clement St—'Dumpling Legend'?? I’ve only seen it on TikTok though lol",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Rachel",
+            "talker_id": 1,
+            "time": "4:41 PM",
+            "content": "I’m fine w/ DTF if we can get a res I just want the vinegar-ginger-rice-vinegar-ratio to be perfect",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Josh",
+            "talker_id": 2,
+            "time": "4:43 PM",
+            "content": "classic Rachel lol",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Lisa",
+            "talker_id": 3,
+            "time": "4:44 PM",
+            "content": "remember when she made the waiter RE-EXPLAIN the sauce ratios in 2018",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Rachel",
+            "talker_id": 1,
+            "time": "4:45 PM",
+            "content": "ok but I was RIGHT 😤",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Josh",
+            "talker_id": 2,
+            "time": "4:48 PM",
+            "content": "alright I’ll try for a DTF res at the Valley Fair one backup plan: dumpling TikTok roulette",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Rachel",
+            "talker_id": 1,
+            "time": "4:52 PM",
+            "content": "wait… has Kevin even seen any of this? 👀",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Lisa",
+            "talker_id": 3,
+            "time": "4:54 PM",
+            "content": "he’s probably buried in work again lol Kevin if you’re alive blink twice and vote dumplings",
+            "content_type": "text"
+        },
+        {
+            "talker_name": "Josh",
+            "talker_id": 2,
+            "time": "4:55 PM",
+            "content": "bro just say yes to soup dumplings and we’ll love you forever 💖",
+            "content_type": "text"
+        }
+    ]
+}

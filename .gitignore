@@ -1,0 +1,4 @@
+*.session
+__pycache__/
+.env
+accounts.json
